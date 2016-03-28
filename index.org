@@ -1,7 +1,28 @@
 * Saluton!
-  - ĉi tio retpago estas unu provo de lernado de esperanto.
-  - Mi volas lerni la internacia lingvo kaj me ne povas praktikigi ĝin facile, tiel mi decidas lerni per skribi iomete
-  - Ĉi tio skribado estas farita per org-mode en la emacs programo kaj estas eksporti al "html" lingvo. La htmloj dosieroj estas gastigita per statiko sistemo de githubo
-  - Certe vi povos trovi multe eraroj en la mia skribado. Bonvolu pardonu al min. Komprenu ke mi estas lernanto. Bonvolu skribu al min al carlos (punkto) saport (ĉe-signo) gmail (punkto) com. Vi povas diri la eraroj aux simple skribi iom da paroloj kaj saluti.
+  Ĉi tio retpago estas unu provo de lernado de esperanto.
+  Mi volas lerni la internacia lingvo kaj me ne povas praktikigi ĝin facile, tiel mi decidas lerni per skribi iomete
+  Ĉi tio skribado estas farita per org-mode en la emacs programo kaj estas eksporti al "html" lingvo. La htmloj dosieroj estas gastigita per statiko sistemo de githubo
+  Certe vi povos trovi multe eraroj en la mia skribado. Bonvolu pardonu al min. Komprenu ke mi estas lernanto. Bonvolu skribu al min al carlos (punkto) saport (ĉe-signo) gmail (punkto) com. Vi povas diri la eraroj aux simple skribi iom da paroloj kaj saluti.
 
-* Libra proĵektoj
+* Unu kompilo de liberaj proĵektoj
+  Mi ŝatas la libero. Liberaj proĵektoj donas al ni la kontrolo de nia vivo. 
+Nelibera programoj aux proĵektoj estas bona ankaux, sed la pli aferojn ni havas 
+kun libera sistemo la pli bonajn. Mi estas sekvanto kaj uzanto de diversaj sistemoj,
+proĵectoj kaj programoj. Iuj mi uzas ilin ĉiutage, personale aux laborale, kaj iuj 
+mi ne uzas kaj mi kredas que neniu povas uzi ilin. Ĉiuokaze mi volas skribi unu listo 
+de proĵektoj mi ŝatas aux uzas.
+
+** Drupalo 
+[[drupal.org][Drupalo]]
+** Emacs (Emacso?)
+[[https://www.gnu.org/software/emacs/tour/][Emacs]]
+** Linukso 
+[[https://www.debian.org/][Debian]]
+** Justa poŝtelefono (FairPhone)
+[[https://www.fairphone.com/][FairPhone]]
+** Raspberry Pi
+** Arduino
+** WikiSpeed (open source car)
+[[http://wikispeed.org/][Wikispeed]]
+** Openmoko (Open source hardware phone)
+[[http://wiki.openmoko.org/wiki/Main_Page][Openmoko]]
