@@ -1,0 +1,7 @@
+* Saluton!
+  - ĉi tio retpago estas unu provo de lernado de esperanto.
+  - Mi volas lerni la internacia lingvo kaj me ne povas praktikigi ĝin facile, tiel mi decidas lerni per skribi iomete
+  - Ĉi tio skribado estas farita per org-mode en la emacs programo kaj estas eksporti al "html" lingvo. La htmloj dosieroj estas gastigita per statiko sistemo de githubo
+  - Certe vi povos trovi multe eraroj en la mia skribado. Bonvolu pardonu al min. Komprenu ke mi estas lernanto. Bonvolu skribu al min al carlos (punkto) saport (ĉe-signo) gmail (punkto) com. Vi povas diri la eraroj aux simple skribi iom da paroloj kaj saluti.
+
+* Libra proĵektoj
